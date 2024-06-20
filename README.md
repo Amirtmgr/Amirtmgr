@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirtmgr&theme=darkhub" alt="amirtmgr" /></a> </p>
 
-- 🔭 I’m currently working on **On device ML**
+- 🔭 I’m currently working on **On-device ML**
 - 🌱 I’m currently learning **Core ML, LangChain, RAG, SAP**
-- 💬 Ask me about **Swift, Python, Objective-C, Kotlin, JavaScript, UIKit, PyTorch, C/C++, Asembly, FPGA and Arduino**
+- 💬 Ask me about **Swift, Python, Objective-C, Kotlin, JavaScript, UIKit, PyTorch, C/C++, Assembly, FPGA, and Arduino**
 - 📫 How to reach me **amir.thapamagar01@gmail.com**
 - 👨‍💻 All of my projects are available at **amirtm.me**
 - 📝 I regularly write articles on **amirtm.me**
 - 📄 Know about my experiences **amirtm.me**
-- ⚡ Fun fact **I am not an early morning person.**
+- ⚡ Fun fact **I am not an early-morning person.**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amirthapamagar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/amirtmgr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
