@@ -11,7 +11,7 @@
 - 📫 How to reach me **amir.thapamagar01@gmail.com**
 - 👨‍💻 All of my projects are available at **amirtm.me**
 - 📝 I regularly write articles on **amirtm.me**
-- 📄 Know about my experiences **amirtmg.me**
+- 📄 Know about my experiences **amirtm.me**
 - ⚡ Fun fact **I am not an early morning person.**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amirthapamagar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
