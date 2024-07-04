@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at **amirtm.me**
 - 📝 I regularly write articles on **amirtm.me**
 - 📄 Know about my experiences **amirtm.me**
-- ⚡ Fun fact **I was 12 years old when I repaired the first electronic device.**
+- ⚡ Fun fact **At the age of 12, I repaired my first electronic device (Telephone). This motivated me to be where I am today.**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amirtmgr&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
@@ -29,8 +29,21 @@
 ## Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=amirtmgr&theme=onedark&hide_border=false)
+
+</div>
+
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtmgr&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=amirtmgr&theme=onedark&hide_border=false)<br/>
+</div>
+
+</div><h3 align="left">Connect with me:</h3>
+<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amirthapamagar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/amirtmgr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:amir.thapamagar01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
